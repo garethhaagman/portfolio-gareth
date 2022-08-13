@@ -1,2 +1,1 @@
-# React Bricks portfolio website built with Next.js and Tailwind CSS 
-
+##  Portfolio site hosted through Netlify, using Reactbricks
